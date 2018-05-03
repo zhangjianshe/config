@@ -33,3 +33,5 @@ export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib
 
 export PATH=${JAVA_HOME}/bin:$PATH:~/soft/idea/bin:~/soft/eclipse
 export ziroom_pwd=Ziroom06
+export sonatype_user=zhangjianshe
+export sonatype_pwd=
